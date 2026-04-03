@@ -58,6 +58,8 @@ Access to restricted areas
 
 This behavior suggests automated attack tools or scripts.
 
+![image alt](https://github.com/BADR60/WebStrike/blob/ad653801d170931c34c88ea3aef5c34559c3ad3f/wireshark.png)
+
 4️⃣ Evidence Collection
 
 Evidence Type	Details
