@@ -5,6 +5,8 @@ Platform: CyberDefenders
 Category: Web Log Analysis / Incident Response
 Analyst: [badr]
 
+![image alt](https://github.com/BADR60/WebStrike/blob/7d3634acc91649c883fbaa6c4afc0f61ab37a841/Untitled.jpeg)
+
 🚨 Incident Summary
 
 This investigation analyzes suspicious web server activity indicating a potential compromise.
