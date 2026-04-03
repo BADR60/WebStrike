@@ -122,3 +122,7 @@ Proactive monitoring and improved security controls are essential to prevent fut
 
 [baadr]
 SOC Analyst (Level 1)
+I successfully completed WebStrike Blue Team Lab at @CyberDefenders!
+https://cyberdefenders.org/blueteam-ctf-challenges/achievements/badrTO/webstrike/
+ 
+#CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR #CCD #CyberDefender
